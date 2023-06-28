@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dz-use-effect/static/css/main.4e9c3377.css",
+    "main.js": "/dz-use-effect/static/js/main.34d44cc1.js",
+    "static/js/787.140fac2a.chunk.js": "/dz-use-effect/static/js/787.140fac2a.chunk.js",
+    "index.html": "/dz-use-effect/index.html",
+    "main.4e9c3377.css.map": "/dz-use-effect/static/css/main.4e9c3377.css.map",
+    "main.34d44cc1.js.map": "/dz-use-effect/static/js/main.34d44cc1.js.map",
+    "787.140fac2a.chunk.js.map": "/dz-use-effect/static/js/787.140fac2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e9c3377.css",
+    "static/js/main.34d44cc1.js"
+  ]
+}
